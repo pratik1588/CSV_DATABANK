@@ -1,1 +1,6 @@
-[{"tkt state": "total"}, {"open": 4}, {"in-progress": 5}, {"closed": 0}]
+[
+{"tkt state": "total"},
+{"open": 4},
+{"in-progress": 5},
+{"closed": 0}
+]
