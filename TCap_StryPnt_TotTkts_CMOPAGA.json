@@ -1,0 +1,26 @@
+[
+  {
+    "Team capacity": 50,
+    "Story_Points": 15,
+    "Total_Tickets": 11,
+    "Efficiency_%": 86
+  },
+  {
+    "Team capacity": "",
+    "Story_Points": 8,
+    "Total_Tickets": "",
+    "Efficiency_%": ""
+  },
+  {
+    "Team capacity": "",
+    "Story_Points": 5,
+    "Total_Tickets": "",
+    "Efficiency_%": ""
+  },
+  {
+    "Team capacity": "",
+    "Story_Points": 15,
+    "Total_Tickets": "",
+    "Efficiency_%": ""
+  }
+]
