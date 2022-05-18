@@ -1,0 +1,37 @@
+[
+  {
+    "time": "2022-05-09T00:00:00Z",
+    "Story_Points": 0,
+    "Story_pnt-burndwn": 0
+  },
+  {
+    "time": "2022-05-10T00:00:00Z",
+    "Story_Points": 36,
+    "Story_pnt-burndwn": 18
+  },
+  {
+    "time": "2022-05-11T00:00:00Z",
+    "Story_Points": 40,
+    "Story_pnt-burndwn": 28
+  },
+  {
+    "time": "2022-05-12T00:00:00Z",
+    "Story_Points": 40,
+    "Story_pnt-burndwn": 32
+  },
+  {
+    "time": "2022-05-13T00:00:00Z",
+    "Story_Points": 40,
+    "Story_pnt-burndwn": 35
+  },
+  {
+    "time": "2022-05-14T00:00:00Z",
+    "Story_Points": 42,
+    "Story_pnt-burndwn": 40
+  },
+  {
+    "time": "2022-05-15T00:00:00Z",
+    "Story_Points": 43,
+    "Story_pnt-burndwn": 43
+  }
+]
