@@ -1,22 +1,7 @@
 [
   {
     "Team capacity": 50,
-    "Story_Points": 15,
+    "Story_Points": 43,
     "Efficiency_%": 86
-  },
-  {
-    "Team capacity": "",
-    "Story_Points": 8,
-    "Efficiency_%": ""
-  },
-  {
-    "Team capacity": "",
-    "Story_Points": 5,
-    "Efficiency_%": ""
-  },
-  {
-    "Team capacity": "",
-    "Story_Points": 15,
-    "Efficiency_%": ""
   }
 ]
