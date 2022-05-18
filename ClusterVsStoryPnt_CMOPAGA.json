@@ -1,0 +1,18 @@
+[
+  {
+    "Cluster/Component": "Start-Stop",
+    "StoryPnt_Load": 15
+  },
+  {
+    "Cluster/Component": "PerfEdC",
+    "StoryPnt_Load": 8
+  },
+  {
+    "Cluster/Component": "PerfHdc",
+    "StoryPnt_Load": 9
+  },
+  {
+    "Cluster/Component": "EdTRSm",
+    "StoryPnt_Load": 11
+  }
+]
