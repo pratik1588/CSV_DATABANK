@@ -1,0 +1,46 @@
+[
+  {
+    "Time": "2022-02-21T00:00:00Z",
+    "Sprint_Burndown": 5
+  },
+  {
+    "Time": "2022-03-16T00:00:00Z",
+    "Sprint_Burndown": 13
+  },
+  {
+    "Time": "2022-03-28T00:00:00Z",
+    "Sprint_Burndown": 16
+  },
+  {
+    "Time": "2022-03-31T00:00:00Z",
+    "Sprint_Burndown": 22
+  },
+  {
+    "Time": "2022-04-01T00:00:00Z",
+    "Sprint_Burndown": 35
+  },
+  {
+    "Time": "2022-04-04T00:00:00Z",
+    "Sprint_Burndown": 39
+  },
+  {
+    "Time": "2022-04-07T00:00:00Z",
+    "Sprint_Burndown": 43
+  },
+  {
+    "Time": "2022-04-11T00:00:00Z",
+    "Sprint_Burndown": 45
+  },
+  {
+    "Time": "2022-04-14T00:00:00Z",
+    "Sprint_Burndown": 48
+  },
+  {
+    "Time": "2022-04-19T00:00:00Z",
+    "Sprint_Burndown": 52
+  },
+  {
+    "Time": "2022-02-22T00:00:00Z",
+    "Sprint_Burndown": 32
+  }
+]
