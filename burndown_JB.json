@@ -1,0 +1,90 @@
+[
+  {
+    "Time": "2022-02-21T00:00:00Z",
+    "Sprint_Burndown": 5,
+    "Tickets": 1,
+    "cummulative": 1,
+    "storypoints": 5,
+    "cummulativesp": 5
+  },
+  {
+    "Time": "2022-03-16T00:00:00Z",
+    "Sprint_Burndown": 13,
+    "Tickets": 3,
+    "cummulative": 4,
+    "storypoints": 8,
+    "cummulativesp": 13
+  },
+  {
+    "Time": "2022-03-28T00:00:00Z",
+    "Sprint_Burndown": 16,
+    "Tickets": 1,
+    "cummulative": 5,
+    "storypoints": 3,
+    "cummulativesp": 16
+  },
+  {
+    "Time": "2022-03-31T00:00:00Z",
+    "Sprint_Burndown": 22,
+    "Tickets": 2,
+    "cummulative": 7,
+    "storypoints": 6,
+    "cummulativesp": 22
+  },
+  {
+    "Time": "2022-04-01T00:00:00Z",
+    "Sprint_Burndown": 35,
+    "Tickets": 5,
+    "cummulative": 12,
+    "storypoints": 13,
+    "cummulativesp": 35
+  },
+  {
+    "Time": "2022-04-04T00:00:00Z",
+    "Sprint_Burndown": 39,
+    "Tickets": 1,
+    "cummulative": 13,
+    "storypoints": 4,
+    "cummulativesp": 39
+  },
+  {
+    "Time": "2022-04-07T00:00:00Z",
+    "Sprint_Burndown": 43,
+    "Tickets": 1,
+    "cummulative": 14,
+    "storypoints": 4,
+    "cummulativesp": 43
+  },
+  {
+    "Time": "2022-04-11T00:00:00Z",
+    "Sprint_Burndown": 45,
+    "Tickets": 1,
+    "cummulative": 15,
+    "storypoints": 2,
+    "cummulativesp": 45
+  },
+  {
+    "Time": "2022-04-14T00:00:00Z",
+    "Sprint_Burndown": 48,
+    "Tickets": 1,
+    "cummulative": 16,
+    "storypoints": 3,
+    "cummulativesp": 48
+  },
+  {
+    "Time": "2022-04-19T00:00:00Z",
+    "Sprint_Burndown": 52,
+    "Tickets": 1,
+    "cummulative": 17,
+    "storypoints": 4,
+    "cummulativesp": 52
+  },
+  {
+    "Time": "2022-02-22T00:00:00Z",
+    "Sprint_Burndown": 32,
+    "Tickets": 1,
+    "cummulative": 18,
+    "storypoints": 3,
+    "cummulativesp": 55
+  }
+]
