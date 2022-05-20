@@ -1,0 +1,74 @@
+[
+  {
+    "ticket": "AMGPTE-5799",
+    "priority": "Blocker"
+  },
+  {
+    "ticket": "AMGPTE-5709",
+    "priority": "Critical"
+  },
+  {
+    "ticket": "AMGPTE-5710",
+    "priority": "Critical"
+  },
+  {
+    "ticket": "AMGPTE-5760",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5615",
+    "priority": "Major"
+  },
+  {
+    "ticket": "AMGPTE-5716",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5806",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5751",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5752",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5794",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5782",
+    "priority": "Major"
+  },
+  {
+    "ticket": "AMGPTE-5763",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5765",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5757",
+    "priority": "Major"
+  },
+  {
+    "ticket": "AMGPTE-5756",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5775",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5767",
+    "priority": "Minor"
+  },
+  {
+    "ticket": "AMGPTE-5737",
+    "priority": "Minor"
+  }
+]
