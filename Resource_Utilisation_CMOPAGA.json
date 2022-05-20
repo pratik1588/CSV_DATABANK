@@ -1,6 +1,7 @@
 [
   {
+    "Team capacity": 50,
     "Story_Points": 55,
-    "Team capacity": 50
+    "Resource_Utilisation_%": 110
   }
 ]
