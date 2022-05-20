@@ -1,0 +1,50 @@
+[
+  {
+    "Sprint": "Sprint01",
+    "Points_Burned": 30
+  },
+  {
+    "Sprint": "Sprint02",
+    "Points_Burned": 35
+  },
+  {
+    "Sprint": "Sprint03",
+    "Points_Burned": 50
+  },
+  {
+    "Sprint": "Sprint04",
+    "Points_Burned": 45
+  },
+  {
+    "Sprint": "Sprint05",
+    "Points_Burned": 40
+  },
+  {
+    "Sprint": "Sprint06",
+    "Points_Burned": 30
+  },
+  {
+    "Sprint": "Sprint07",
+    "Points_Burned": 36
+  },
+  {
+    "Sprint": "Sprint08",
+    "Points_Burned": 43
+  },
+  {
+    "Sprint": "Sprint09",
+    "Points_Burned": 32
+  },
+  {
+    "Sprint": "Sprint10",
+    "Points_Burned": 38
+  },
+  {
+    "Sprint": "Sprint11",
+    "Points_Burned": 40
+  },
+  {
+    "Sprint": "Sprint12",
+    "Points_Burned": 55
+  }
+]
