@@ -1,0 +1,18 @@
+[
+  {
+    "priority": "Blocker",
+    "No": 1
+  },
+  {
+    "priority": "Critical",
+    "No": 2
+  },
+  {
+    "priority": "Major",
+    "No": 3
+  },
+  {
+    "priority": "Minor",
+    "No": 12
+  }
+]
