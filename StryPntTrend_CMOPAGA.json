@@ -2,56 +2,67 @@
   {
     "time": "2022-02-21T00:00:00Z",
     "Story_Points": 5,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 5
   },
   {
     "time": "2022-02-22T00:00:00Z",
     "Story_Points": 3,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 8
   },
   {
     "time": "2022-03-16T00:00:00Z",
     "Story_Points": 8,
-    "Tkt_Count": 3
+    "Tkt_Count": 3,
+    "Story_Points_trend": 16
   },
   {
     "time": "2022-03-28T00:00:00Z",
     "Story_Points": 3,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 19
   },
   {
     "time": "2022-03-31T00:00:00Z",
     "Story_Points": 6,
-    "Tkt_Count": 2
+    "Tkt_Count": 2,
+    "Story_Points_trend": 25
   },
   {
     "time": "2022-04-01T00:00:00Z",
     "Story_Points": 13,
-    "Tkt_Count": 5
+    "Tkt_Count": 5,
+    "Story_Points_trend": 38
   },
   {
     "time": "2022-04-04T00:00:00Z",
     "Story_Points": 4,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 42
   },
   {
     "time": "2022-04-07T00:00:00Z",
     "Story_Points": 4,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 46
   },
   {
     "time": "2022-04-11T00:00:00Z",
     "Story_Points": 2,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 48
   },
   {
     "time": "2022-04-14T00:00:00Z",
     "Story_Points": 3,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 51
   },
   {
     "time": "2022-04-19T00:00:00Z",
     "Story_Points": 4,
-    "Tkt_Count": 1
+    "Tkt_Count": 1,
+    "Story_Points_trend": 55
   }
 ]
