@@ -1,8 +1,8 @@
 [
   {
     "Status": "Open",
-    "Tkt Count": 18,
-    "Tickets": "%PerfHdc_SIMP 330_21b_4.2\n%PerfHdc_ESR 330_21b_4.1\n%PerfHdc_EPP 330_21b_4.3\n%PerfHdc_LCS 330_21b_4.1\n%PerfHdc_STMD 330_21b_4.1\n%PerfMkComCpcTcmXG 330_21b_4.2\n%PerfMkIdleCtlAcv 330_21b_4.2\n%PerfHdc_SIMP 330_21b_4.1\n%PerfHmc_TSI 330_21b_4.2\n%HDC_ASC 50_22a_1.2\n%PerfHdc_ASCER 330_21b_4.1\n%PerfHdc_EPLS 330_21b_4.2\n%PerfHdc_TQM 330_21b_4.2\n%PerfHdc_TQM 330_21b_4.2\n%PerfHdc_Stc 330_21b_4.2\n%PerfHdc_Ptt 330_21b_4.2\n%HDC_ELS 50_22a_1.1\n%HDC_ASC 50_22a_1.1\n%PerfHdc_PtPnt8Hyb 330_21b_4.1"
+    "Tkt Count": 0,
+    "Tickets": ""
   },
   {
     "Status": "Ready",
@@ -36,7 +36,7 @@
   },
   {
     "Status": "Closed",
-    "Tkt Count": 0,
-    "Tickets": ""
+    "Tkt Count": 18,
+    "Tickets": "%PerfHdc_SIMP 330_21b_4.2\n%PerfHdc_ESR 330_21b_4.1\n%PerfHdc_EPP 330_21b_4.3\n%PerfHdc_LCS 330_21b_4.1\n%PerfHdc_STMD 330_21b_4.1\n%PerfMkComCpcTcmXG 330_21b_4.2\n%PerfMkIdleCtlAcv 330_21b_4.2\n%PerfHdc_SIMP 330_21b_4.1\n%PerfHmc_TSI 330_21b_4.2\n%HDC_ASC 50_22a_1.2\n%PerfHdc_ASCER 330_21b_4.1\n%PerfHdc_EPLS 330_21b_4.2\n%PerfHdc_TQM 330_21b_4.2\n%PerfHdc_TQM 330_21b_4.2\n%PerfHdc_Stc 330_21b_4.2\n%PerfHdc_Ptt 330_21b_4.2\n%HDC_ELS 50_22a_1.1\n%HDC_ASC 50_22a_1.1\n%PerfHdc_PtPnt8Hyb 330_21b_4.1"
   }
 ]
