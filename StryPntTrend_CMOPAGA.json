@@ -5,52 +5,52 @@
     "Tkt_Count_Trend": 1
   },
   {
-    "time": "2022-02-22T00:00:00Z",
-    "Story_Points_Trend": 8,
-    "Tkt_Count_Trend": 2
+    "time": "2022-03-16T00:00:00Z",
+    "Story_Points_Trend": 13,
+    "Tkt_Count_Trend": 4
   },
   {
-    "time": "2022-03-16T00:00:00Z",
+    "time": "2022-03-28T00:00:00Z",
     "Story_Points_Trend": 16,
     "Tkt_Count_Trend": 5
   },
   {
-    "time": "2022-03-28T00:00:00Z",
-    "Story_Points_Trend": 19,
-    "Tkt_Count_Trend": 6
-  },
-  {
     "time": "2022-03-31T00:00:00Z",
-    "Story_Points_Trend": 25,
-    "Tkt_Count_Trend": 8
+    "Story_Points_Trend": 22,
+    "Tkt_Count_Trend": 7
   },
   {
     "time": "2022-04-01T00:00:00Z",
-    "Story_Points_Trend": 38,
-    "Tkt_Count_Trend": 13
+    "Story_Points_Trend": 35,
+    "Tkt_Count_Trend": 12
   },
   {
     "time": "2022-04-04T00:00:00Z",
-    "Story_Points_Trend": 42,
-    "Tkt_Count_Trend": 14
+    "Story_Points_Trend": 39,
+    "Tkt_Count_Trend": 13
   },
   {
     "time": "2022-04-07T00:00:00Z",
-    "Story_Points_Trend": 46,
-    "Tkt_Count_Trend": 15
+    "Story_Points_Trend": 43,
+    "Tkt_Count_Trend": 14
   },
   {
     "time": "2022-04-11T00:00:00Z",
+    "Story_Points_Trend": 45,
+    "Tkt_Count_Trend": 15
+  },
+  {
+    "time": "2022-04-14T00:00:00Z",
     "Story_Points_Trend": 48,
     "Tkt_Count_Trend": 16
   },
   {
-    "time": "2022-04-14T00:00:00Z",
-    "Story_Points_Trend": 51,
+    "time": "2022-04-19T00:00:00Z",
+    "Story_Points_Trend": 52,
     "Tkt_Count_Trend": 17
   },
   {
-    "time": "2022-04-19T00:00:00Z",
+    "time": "2022-04-22T00:00:00Z",
     "Story_Points_Trend": 55,
     "Tkt_Count_Trend": 18
   }
