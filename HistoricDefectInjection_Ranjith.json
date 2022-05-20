@@ -1,30 +1,30 @@
 [
   {
-    "time": "2021-01-18",
+    "time": "2022-01-01",
     "Defect Injected Cumulative": 10,
     "Defect Resolved Cumulative": 9,
     "Active Defectives": 1
   },
   {
-    "time": "22B_Sprint02",
+    "time": "2022-02-01",
     "Defect Injected Cumulative": 75,
     "Defect Resolved Cumulative": 13,
     "Active Defectives": 3
   },
   {
-    "time": "22B_Sprint03",
+    "time": "2022-03-01",
     "Defect Injected Cumulative": 24,
     "Defect Resolved Cumulative": 21,
     "Active Defectives": 3
   },
   {
-    "time": "22B_Sprint04",
+    "time": "2022-04-01",
     "Defect Injected Cumulative": 31,
     "Defect Resolved Cumulative": 26,
     "Active Defectives": 5
   },
   {
-    "time": "22B_Sprint05",
+    "time": "2022-05-01",
     "Defect Injected Cumulative": 45,
     "Defect Resolved Cumulative": 26,
     "Active Defectives": 19
