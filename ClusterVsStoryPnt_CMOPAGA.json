@@ -1,18 +1,18 @@
 [
   {
-    "Cluster/Component": "Start-Stop",
-    "StoryPnt_Load": 15
+    "Cluster/Component": "Load_Shift",
+    "StoryPnt_Load": 4
   },
   {
-    "Cluster/Component": "PerfEdC",
-    "StoryPnt_Load": 8
+    "Cluster/Component": "MOKO_AMG",
+    "StoryPnt_Load": 5
   },
   {
-    "Cluster/Component": "PerfHdc",
-    "StoryPnt_Load": 9
+    "Cluster/Component": "OPS",
+    "StoryPnt_Load": 34
   },
   {
-    "Cluster/Component": "EdTRSm",
-    "StoryPnt_Load": 11
+    "Cluster/Component": "Starter_Function",
+    "StoryPnt_Load": 12
   }
 ]
