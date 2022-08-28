@@ -1,1 +1,10 @@
-[{"priority": "Blocker", "No": 1}, {"priority": "Minor", "No": 9}]
+[
+  {
+    "priority": "Blocker",
+    "No": 1
+  },
+  {
+    "priority": "Critical",
+    "No": 2
+  }
+]
