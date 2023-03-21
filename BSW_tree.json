@@ -1,0 +1,75 @@
+graph [
+	node[
+	id: 0
+	name: 'MC3D02GGD'
+	agk: 'Sprint02_GG'
+	Indus: 
+	Car_line:
+	]
+	node[
+	id: 1
+	name: 'MC3D05GGD'
+	agk: 'Sprint05_GG'
+	Indus: 
+	Car_line:
+	]
+	node[
+	id: 2
+	name: 'MC3D07GGD'
+	agk: 'Sprint07_GG'
+	Indus: 
+	Car_line:
+	]
+	node[
+	id: 3
+	name: 'MC3DA7GGD'
+	agk: 'Sprint07_GG'
+	Indus: 
+	Car_line:
+	]
+	node[
+	id: 4
+	name: 'MC3D10GGD'
+	agk: 'Sprint10_GG'
+	Indus: 
+	Car_line:
+	]
+	node[
+	id: 5
+	name: 'MC3D11GGD'
+	agk: 'Sprint10_GG'
+	Indus: 
+	Car_line:
+	]
+	node[
+	id: 6
+	name: 'MC3DAAGGD'
+	agk: 'Sprint11_GG_d'
+	Indus: 'yes'
+	Car_line: '236-M256m'
+	]
+	edge[
+	source: 0
+	destination:1
+	]
+	edge[
+	source: 1
+	destination:2
+	]
+	edge[
+	source: 2
+	destination:3
+	]
+	edge[
+	source: 3
+	destination:4
+	]
+	edge[
+	source: 4
+	destination:5
+	]
+	edge[
+	source: 5
+	destination:6
+	]
+]
